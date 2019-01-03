@@ -1,0 +1,11 @@
+1.git clone(path frpm github)
+2.install node_modules in folder
+  npm install --save
+3.run server using command
+  node . or nodemon or npm start
+
+
+open swagger:-
+=============
+  swagger (ip:port/documentation)
+  perform operations(CRUD)
