@@ -1,0 +1,4 @@
+//how to run
+1.clone from github
+2.install npm_modules using command(npm install --save)
+3.run the command(node . or nodemon or npm start)
